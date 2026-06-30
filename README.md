@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🎓 MS Computer Science student at Stevens Institute of Technology (GPA 3.7, expected May 2027), and B.E. Computer Engineering from RGIT Mumbai (9.36 CGPA)
+- 🎓 MS Computer Science student at Stevens Institute of Technology (GPA 3.702, expected May 2027), and B.E. Computer Engineering from RGIT Mumbai (9.36 CGPA)
 - 🧠 Focused on agentic AI engineering: LangGraph pipelines, multi-agent orchestration, RAG architectures, and FastAPI backends deployed on GCP Cloud Run, Railway, and Streamlit Cloud
 - 🏆 1st place at GDG NYC Hackathon 2026 (DroneWatch), 1st place at Quack Hacks 2026 (ClaimCrane, Chubb-sponsored), 1st place at SPY Hackathon (ClassCast)
 - 💼 Spent 2 years as a Workforce Management Analyst at Reliance Jio building SQL ETL pipelines and Tableau/Power BI dashboards before moving fully into AI engineering
@@ -106,9 +106,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhaveshMRA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshMRA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=BhaveshMRA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
