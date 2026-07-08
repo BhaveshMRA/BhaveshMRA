@@ -14,7 +14,6 @@
 - 🧠 Focused on agentic AI engineering: LangGraph pipelines, multi-agent orchestration, RAG architectures, and FastAPI backends deployed on GCP Cloud Run, Railway, and Streamlit Cloud
 - 🏆 1st place at Quack Hacks 2026 (ClaimCrane, Chubb-sponsored), 1st place at SPY Hackathon (ClassCast), 3rd Place at RocketLane's PS Hack Build Day 2026.
 - 💼 Spent 2 years as a Workforce Management Analyst at Reliance Jio building SQL ETL pipelines and Tableau/Power BI dashboards before moving fully into AI engineering
-- 🌱 Currently building SkinOS, an AI-powered skincare platform for melanin-rich and brown skin
 - 🎯 Looking for AI/ML internships and co-ops (Summer 2026, Spring 2027, Fall 2027) and developing a research statement on agentic AI and long-horizon reasoning for PhD applications
 - 📫 Reach me at bmaurya@stevens.edu
 
